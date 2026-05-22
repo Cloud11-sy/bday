@@ -1,0 +1,8 @@
+==============================
+  FOLDER GIF / MASCOT
+==============================
+Taruh file GIF kamu di sini:
+  mascot.gif       <- GIF yang muncul di semua halaman
+  mascot_marah.gif <- GIF yang muncul di halaman "noo"
+
+Kalau file tidak ada, otomatis pakai emoji sebagai pengganti.
